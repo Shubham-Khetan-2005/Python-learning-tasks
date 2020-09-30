@@ -1,4 +1,4 @@
-# Some amazing basic python learning experiments
+# Some Amazing basic python learning experiments
 
 Sierpinski Triangle
 Generates Sierpinski triangles of various levels. Fractals
